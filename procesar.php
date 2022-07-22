@@ -15,5 +15,5 @@ if($usuario==$usurio_bd && $contrasenia==$contrasenia_bd){
         echo "password recordado";
     }
 }else{
-    echo "passward incorrecto";
+    echo "passward incorrecto saludos";
 }
